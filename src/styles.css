@@ -1,0 +1,42 @@
+/* You can add global styles to this file, and also import other style files */
+/* terms-condition-login page */
+.trmcondn-logn-hedng h1{
+    font-size: 1.25rem;
+    font-weight: 700;
+    font-family:'Urbanist', sans-serif ;
+    margin: 1.236em 0 .618em;
+    }
+    .trmcondn-logn-hedng p{
+      font-size: 16px;
+      line-height: 1.54;
+      font-family: 'Urbanist', sans-serif;
+    }
+    .trmcondn-logn-subhd h2{
+      font-family: 'Urbanist', sans-serif;
+      font-weight: 700;
+      box-sizing: border-box;
+      font-size: 18px;
+      color: #444;
+      line-height: 1.444;
+      font-style: normal;
+    }
+    .trmcondn-logn-subhd p{
+      font-family:'Urbanist', sans-serif ;
+      font-style: normal;
+      font-weight: 300;
+      color: #444;
+      font-size: 16px;
+      line-height: 1.54;
+    }
+    .trmcondn-logn-nav{
+      height: 64px;
+      width: 1000px;
+      box-shadow: 0 0 0 0 transparent;
+      background: #fff;
+      display: block;
+      position: fixed;
+      right: 56px;
+    }
+    .trmcondn-logn-main{
+        margin-left: 100px;
+    }
