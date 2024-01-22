@@ -1,5 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
 /* terms-condition-login page */
+/* styles.css or styles.scss */
+@import '~bootstrap/dist/css/bootstrap.min.css';
+
 .trmcondn-logn-hedng h1{
     font-size: 1.25rem;
     font-weight: 700;
@@ -22,7 +25,6 @@
     }
     .trmcondn-logn-subhd p{
       font-family:'Urbanist', sans-serif ;
-      font-style: normal;
       font-weight: 300;
       color: #444;
       font-size: 16px;
@@ -37,6 +39,10 @@
       position: fixed;
       right: 56px;
     }
-    .trmcondn-logn-main{
-        margin-left: 100px;
+    
+    #navbarorg span{
+      font-size: 18px;
+      font-weight: 500;
+      font-family:'Urbanist', sans-serif ;
+      color: #2c2b36;
     }
